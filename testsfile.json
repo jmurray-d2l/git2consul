@@ -6,6 +6,6 @@
 	"versionTwo":[
 		"arrayTestOne",
 		"arrayTestTwo"
-	]
-	
+	],
+	"notanarray":"testvalue"
 }
