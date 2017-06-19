@@ -1,0 +1,32 @@
+{
+	"utilityfarms" : {
+		"farmOne": {
+			"instanceOne": {
+				"database": "dbconnection",
+				"otherInfo": "value"
+			},
+			"instanceTwo": {
+				"database": "dbconnection",
+				"otherInfo": "value"
+			},
+			"instanceThree": {
+				"database": "dbconnection",
+				"otherInfo": "value"
+			}	
+		},
+		"farmTwo": {
+			"instasnceA": {
+				"database": "dbconnection",
+				"otherInfo": "value"
+			},
+			"instanceB": {
+				"database": "dbconnection",
+				"otherInfo": "value"
+			},
+			"instanceC": {
+				"database": "dbconnection",
+				"otherInfo": "value"
+			}	
+		}
+	}	
+}
