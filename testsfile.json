@@ -2,6 +2,10 @@
 	"versionOne": [
 		"arrayTest",
 		"arrayTestTwo"
+	],
+	"versionTwo":[
+		"arrayTestOne",
+		"arrayTestTwo"
 	]
 	
 }
