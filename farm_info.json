@@ -27,6 +27,20 @@
 				"database": "dbconnection",
 				"otherInfo": "value"
 			}	
-		}
+		},
+		"farmThree": {
+			"instasnceX": {
+				"database": "dbconnection",
+				"otherInfo": "value"
+			},
+			"instanceY": {
+				"database": "dbconnection",
+				"otherInfo": "value"
+			},
+			"instanceZ": {
+				"database": "dbconnection",
+				"otherInfo": "value"
+			}	
+		}		
 	}	
 }
