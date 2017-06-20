@@ -8,10 +8,6 @@
 			"instanceTwo": {
 				"database": "dbconnection",
 				"otherInfo": "value"
-			},
-			"instanceThree": {
-				"database": "dbconnection",
-				"otherInfo": "value"
 			}	
 		},
 		"farmTwo": {
@@ -23,7 +19,7 @@
 				"database": "dbconnection",
 				"otherInfo": "value"
 			},
-			"instanceC": {
+			"instanceThree": {
 				"database": "dbconnection",
 				"otherInfo": "value"
 			}	
