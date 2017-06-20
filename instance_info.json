@@ -1,42 +1,42 @@
 {
 	"instanceIdA": {
 		"dbConnection":"value",
-		"cacheKey":"value"
+		"cacheKey":"value",
 		"otherKey":"value"
 	},
 	"instanceIdB": {
 		"dbConnection":"value",
-		"cacheKey":"value"
+		"cacheKey":"value",
 		"otherKey":"value"
 	},
 	"instanceIdC": {
 		"dbConnection":"value",
-		"cacheKey":"value"
+		"cacheKey":"value",
 		"otherKey":"value"
 	},
 	"instanceIdD": {
 		"dbConnection":"value",
-		"cacheKey":"value"
+		"cacheKey":"value",
 		"otherKey":"value"
 	},
 	"instanceIdE": {
 		"dbConnection":"value",
-		"cacheKey":"value"
+		"cacheKey":"value",
 		"otherKey":"value"
 	},
 	"instanceIdX": {
 		"dbConnection":"value",
-		"cacheKey":"value"
+		"cacheKey":"value",
 		"otherKey":"value"
 	},
 	"instanceIdY": {
 		"dbConnection":"value",
-		"cacheKey":"value"
+		"cacheKey":"value",
 		"otherKey":"value"
 	}
 	"instanceIdZ": {
 		"dbConnection":"value",
-		"cacheKey":"value"
+		"cacheKey":"value",
 		"otherKey":"value"
 	}	
 }
