@@ -14,8 +14,9 @@
 	"instanceIdC": {
 		"dbConnection":"value",
 		"cacheKey":"value",
-		"poolId":"default_10732789",
-		"farmId":"default_10732789"
+		"version": "10722561"
+		"utilFarm":"default_1072",
+		"webFarm":"default_1072"
 	},
 	"instanceIdD": {
 		"dbConnection":"value",
