@@ -1,7 +1,8 @@
 {
 	"default_10721789": {
 		"instanceIdA": "",
-		"instanceIdB": "",
+		"instanceIdB": ""
+	},
 	"default_10732789": {
 		"instasnceIdC": "",
 		"instanceIdD": "",
@@ -9,7 +10,7 @@
 	},
 	"default_10743289": {
 		"instasnceIdX": "",
-		"instanceIdY": ""
+		"instanceIdY": "",
 		"instanceIdZ": ""	
 	}
 }
