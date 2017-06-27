@@ -1,4 +1,9 @@
 {
     "key":"value",
-    "anotherKey":"value"
+    "anotherKey":{
+		"lowerKey":"value",
+		"evenLowerKey":{
+			"object":"value"
+		}
+	}
 }
