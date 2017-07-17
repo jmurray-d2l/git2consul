@@ -4,5 +4,7 @@
     "CacheKey": "cacheKey",
     "HostNames": [],
     "InstanceId": "0f6c1751-ff06-4160-9097-584e1f2fd0cf",
-    "Splits": {}
+    "Splits": {
+        "dbsplit": "splitinfo"
+    }
 }
